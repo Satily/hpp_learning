@@ -1,0 +1,6 @@
+*.o
+*.exe
+*.pro
+*.pro.user
+.vscode
+CMakeLists.txt
